@@ -1,0 +1,21 @@
+Position,Number,Driver,Constructor,Laps,Time/Retired,Grid,Points
+1,44,United Kingdom Lewis Hamilton,Mercedes,66,1:33:07.680,1,25
+2,33,Netherlands Max Verstappen,Red Bull Racing-Honda,66,+15.841,2,19
+3,77,Finland Valtteri Bottas,Mercedes,66,+26.610,3,15
+4,16,Monaco Charles Leclerc,Ferrari,66,+54.616,4,12
+5,11,Mexico Sergio Pérez,Red Bull Racing-Honda,66,+1:03.671,8,10
+6,3,Australia Daniel Ricciardo,McLaren-Mercedes,66,+1:13.768,7,8
+7,55,Spain Carlos Sainz Jr.,Ferrari,66,+1:14.670,6,6
+8,4,United Kingdom Lando Norris,McLaren-Mercedes,65,+1 lap,9,4
+9,31,France Esteban Ocon,Alpine-Renault,65,+1 lap,5,2
+10,10,France Pierre Gasly,AlphaTauri-Honda,65,+1 lap,12,1
+11,18,Canada Lance Stroll,Aston Martin-Mercedes,65,+1 lap,11,
+12,7,Finland Kimi Räikkönen,Alfa Romeo Racing-Ferrari,65,+1 lap,17,
+13,5,Germany Sebastian Vettel,Aston Martin-Mercedes,65,+1 lap,13,
+14,63,United Kingdom George Russell,Williams-Mercedes,65,+1 lap,15,
+15,99,Italy Antonio Giovinazzi,Alfa Romeo Racing-Ferrari,65,+1 lap,14,
+16,6,Canada Nicholas Latifi,Williams-Mercedes,65,+1 lap,19,
+17,14,Spain Fernando Alonso,Alpine-Renault,65,+1 lap,10,
+18,47,Germany Mick Schumacher,Haas-Ferrari,64,+2 laps,18,
+19,9,Russian Automobile Federation Nikita Mazepin,Haas-Ferrari,64,+2 laps,20,
+Ret,22,Japan Yuki Tsunoda,AlphaTauri-Honda,6,Electrics,16,

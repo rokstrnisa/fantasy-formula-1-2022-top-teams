@@ -1,0 +1,601 @@
+Explored all of the valid 120887 teams.
+
+=== TEAM AT POSITION 1 WITH SCORE 5003 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Netherlands Max Verstappen', 'Mexico Sergio Pérez', 'Thailand Alexander Albon', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Mega Drivers: (Netherlands Max Verstappen, monaco), (Netherlands Max Verstappen, canadian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Germany Mick Schumacher', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Mexico Sergio Pérez', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'Thailand Alexander Albon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Mexico Sergio Pérez', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Mexico Sergio Pérez', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Mexico Sergio Pérez', 'abu_dhabi': 'Germany Mick Schumacher'}
+
+=== TEAM AT POSITION 2 WITH SCORE 4906 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 3 WITH SCORE 4903 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Netherlands Max Verstappen', 'Mexico Sergio Pérez', 'Canada Nicholas Latifi', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Mega Drivers: (Netherlands Max Verstappen, monaco), (Netherlands Max Verstappen, canadian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Germany Mick Schumacher', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Mexico Sergio Pérez', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'Canada Nicholas Latifi', 'belgian': 'Mexico Sergio Pérez', 'dutch': 'Mexico Sergio Pérez', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Mexico Sergio Pérez', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Canada Nicholas Latifi', 'abu_dhabi': 'Germany Mick Schumacher'}
+
+=== TEAM AT POSITION 4 WITH SCORE 4892 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 5 WITH SCORE 4889 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 6 WITH SCORE 4882 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Pierre Gasly', 'belgian': 'France Pierre Gasly', 'dutch': 'France Pierre Gasly', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Pierre Gasly', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 7 WITH SCORE 4881 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 8 WITH SCORE 4875 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Thailand Alexander Albon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 9 WITH SCORE 4874 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 10 WITH SCORE 4868 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'France Esteban Ocon', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Pierre Gasly', 'dutch': 'France Pierre Gasly', 'italian': 'United Kingdom Lando Norris', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 11 WITH SCORE 4863 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Pierre Gasly', 'belgian': 'Thailand Alexander Albon', 'dutch': 'France Pierre Gasly', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Pierre Gasly', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 12 WITH SCORE 4862 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Fernando Alonso', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Spain Fernando Alonso', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 13 WITH SCORE 4862 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Pierre Gasly', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Monaco Charles Leclerc', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 14 WITH SCORE 4861 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 15 WITH SCORE 4857 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 16 WITH SCORE 4856 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'United Kingdom Lando Norris', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 17 WITH SCORE 4856 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 18 WITH SCORE 4854 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Germany Mick Schumacher', 'belgian': 'Monaco Charles Leclerc', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 19 WITH SCORE 4851 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Pierre Gasly', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 20 WITH SCORE 4850 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 21 WITH SCORE 4849 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'France Pierre Gasly', 'italian': 'United Kingdom Lando Norris', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 22 WITH SCORE 4849 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 23 WITH SCORE 4848 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Japan Yuki Tsunoda', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Japan Yuki Tsunoda'}
+
+=== TEAM AT POSITION 24 WITH SCORE 4846 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 25 WITH SCORE 4845 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 26 WITH SCORE 4841 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Spain Carlos Sainz Jr.', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Spain Carlos Sainz Jr.', 'hungarian': 'France Esteban Ocon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'France Pierre Gasly', 'italian': 'Spain Carlos Sainz Jr.', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 27 WITH SCORE 4839 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Pierre Gasly', 'dutch': 'France Pierre Gasly', 'italian': 'United Kingdom Lando Norris', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Japan Yuki Tsunoda'}
+
+=== TEAM AT POSITION 28 WITH SCORE 4839 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Pierre Gasly', 'belgian': 'France Pierre Gasly', 'dutch': 'France Pierre Gasly', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Pierre Gasly', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 29 WITH SCORE 4838 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'United Kingdom Lando Norris', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 30 WITH SCORE 4837 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'France Esteban Ocon', 'Canada Lance Stroll')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 31 WITH SCORE 4837 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'Monaco Charles Leclerc', 'hungarian': 'China Guanyu Zhou', 'belgian': 'Monaco Charles Leclerc', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 32 WITH SCORE 4837 ===
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Mega Drivers: (Netherlands Max Verstappen, monaco), (Netherlands Max Verstappen, canadian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Australia Daniel Ricciardo', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'United Kingdom Lando Norris', 'japanese': 'United Kingdom Lando Norris', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Fernando Alonso', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Spain Fernando Alonso', 'italian': 'Australia Daniel Ricciardo', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'United Kingdom Lando Norris', 'us': 'Australia Daniel Ricciardo', 'mexico': 'United Kingdom Lando Norris', 'sao_paulo': 'United Kingdom Lando Norris', 'canadian': 'Spain Fernando Alonso', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 33 WITH SCORE 4835 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Spain Carlos Sainz Jr.', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Spain Carlos Sainz Jr.', 'hungarian': 'France Pierre Gasly', 'belgian': 'France Pierre Gasly', 'dutch': 'France Pierre Gasly', 'italian': 'Spain Carlos Sainz Jr.', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 34 WITH SCORE 4834 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Pierre Gasly', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 35 WITH SCORE 4832 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Thailand Alexander Albon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 36 WITH SCORE 4831 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Finland Valtteri Bottas', 'belgian': 'Monaco Charles Leclerc', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 37 WITH SCORE 4829 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Esteban Ocon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Spain Fernando Alonso'}
+
+=== TEAM AT POSITION 38 WITH SCORE 4826 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Pierre Gasly', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 39 WITH SCORE 4825 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Pierre Gasly', 'dutch': 'France Pierre Gasly', 'italian': 'United Kingdom Lando Norris', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 40 WITH SCORE 4820 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'France Esteban Ocon', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 41 WITH SCORE 4818 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 42 WITH SCORE 4817 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Canada Lance Stroll')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Esteban Ocon', 'dutch': 'Spain Fernando Alonso', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 43 WITH SCORE 4817 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Spain Carlos Sainz Jr.', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Spain Carlos Sainz Jr.', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Pierre Gasly', 'dutch': 'France Pierre Gasly', 'italian': 'Spain Carlos Sainz Jr.', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 44 WITH SCORE 4817 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 45 WITH SCORE 4814 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Japan Yuki Tsunoda', 'belgian': 'Monaco Charles Leclerc', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Japan Yuki Tsunoda'}
+
+=== TEAM AT POSITION 46 WITH SCORE 4812 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 47 WITH SCORE 4809 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Pierre Gasly', 'belgian': 'Thailand Alexander Albon', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 48 WITH SCORE 4807 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Denmark Kevin Magnussen')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Pierre Gasly', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 49 WITH SCORE 4806 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Pierre Gasly', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'Japan Yuki Tsunoda'}
+
+=== TEAM AT POSITION 50 WITH SCORE 4802 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Esteban Ocon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Spain Fernando Alonso'}
+
+=== TEAM AT POSITION 51 WITH SCORE 4801 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Canada Lance Stroll')
+Mega Drivers: (Monaco Charles Leclerc, british), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'United Kingdom Lando Norris', 'japanese': 'Spain Carlos Sainz Jr.', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Monaco Charles Leclerc', 'us': 'Monaco Charles Leclerc', 'mexico': 'Monaco Charles Leclerc', 'sao_paulo': 'Monaco Charles Leclerc', 'canadian': 'Monaco Charles Leclerc', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 52 WITH SCORE 4800 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'France Esteban Ocon', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Esteban Ocon', 'dutch': 'Spain Fernando Alonso', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 53 WITH SCORE 4800 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Spain Carlos Sainz Jr.', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'Germany Mick Schumacher', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Spain Carlos Sainz Jr.', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'Spain Carlos Sainz Jr.', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 54 WITH SCORE 4798 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Canada Lance Stroll', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'France Pierre Gasly', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Monaco Charles Leclerc', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 55 WITH SCORE 4796 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Canada Lance Stroll', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'China Guanyu Zhou', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Monaco Charles Leclerc'}
+
+=== TEAM AT POSITION 56 WITH SCORE 4795 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Esteban Ocon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 57 WITH SCORE 4795 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Canada Lance Stroll', 'Finland Valtteri Bottas')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'France Pierre Gasly', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Finland Valtteri Bottas', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 58 WITH SCORE 4794 ===
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'China Guanyu Zhou')
+Mega Drivers: (Netherlands Max Verstappen, monaco), (Netherlands Max Verstappen, canadian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Australia Daniel Ricciardo', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'United Kingdom Lando Norris', 'japanese': 'United Kingdom Lando Norris', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'United Kingdom Lando Norris', 'italian': 'Australia Daniel Ricciardo', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'United Kingdom Lando Norris', 'us': 'Australia Daniel Ricciardo', 'mexico': 'United Kingdom Lando Norris', 'sao_paulo': 'United Kingdom Lando Norris', 'canadian': 'France Esteban Ocon', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 59 WITH SCORE 4794 ===
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Mega Drivers: (Netherlands Max Verstappen, monaco), (Netherlands Max Verstappen, canadian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Australia Daniel Ricciardo', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'United Kingdom Lando Norris', 'japanese': 'United Kingdom Lando Norris', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Fernando Alonso', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Spain Fernando Alonso', 'italian': 'Australia Daniel Ricciardo', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'United Kingdom Lando Norris', 'us': 'Australia Daniel Ricciardo', 'mexico': 'United Kingdom Lando Norris', 'sao_paulo': 'United Kingdom Lando Norris', 'canadian': 'Spain Fernando Alonso', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 60 WITH SCORE 4792 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Japan Yuki Tsunoda'}
+
+=== TEAM AT POSITION 61 WITH SCORE 4792 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Esteban Ocon', 'dutch': 'Spain Fernando Alonso', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 62 WITH SCORE 4791 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Pierre Gasly', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 63 WITH SCORE 4787 ===
+Constructor: McLaren-Mercedes
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'France Pierre Gasly')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Pierre Gasly', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 64 WITH SCORE 4786 ===
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Mega Drivers: (Netherlands Max Verstappen, monaco), (Netherlands Max Verstappen, canadian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Australia Daniel Ricciardo', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'United Kingdom Lando Norris', 'japanese': 'United Kingdom Lando Norris', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Fernando Alonso', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Spain Fernando Alonso', 'italian': 'Australia Daniel Ricciardo', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'United Kingdom Lando Norris', 'us': 'Australia Daniel Ricciardo', 'mexico': 'United Kingdom Lando Norris', 'sao_paulo': 'United Kingdom Lando Norris', 'canadian': 'Spain Fernando Alonso', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 65 WITH SCORE 4785 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 66 WITH SCORE 4784 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Spain Fernando Alonso', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 67 WITH SCORE 4784 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'China Guanyu Zhou')
+Mega Drivers: (Monaco Charles Leclerc, british), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'United Kingdom Lando Norris', 'japanese': 'Spain Carlos Sainz Jr.', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Monaco Charles Leclerc', 'us': 'Monaco Charles Leclerc', 'mexico': 'Monaco Charles Leclerc', 'sao_paulo': 'Monaco Charles Leclerc', 'canadian': 'Monaco Charles Leclerc', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 68 WITH SCORE 4781 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'France Esteban Ocon', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Spain Carlos Sainz Jr.', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'Spain Fernando Alonso', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Spain Carlos Sainz Jr.', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Esteban Ocon', 'dutch': 'Spain Fernando Alonso', 'italian': 'Spain Carlos Sainz Jr.', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 69 WITH SCORE 4779 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Monaco Charles Leclerc', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 70 WITH SCORE 4778 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'France Pierre Gasly', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Finland Valtteri Bottas', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 71 WITH SCORE 4777 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 72 WITH SCORE 4776 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas')
+Mega Drivers: (Monaco Charles Leclerc, british), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'United Kingdom Lando Norris', 'japanese': 'Spain Carlos Sainz Jr.', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Monaco Charles Leclerc', 'us': 'Monaco Charles Leclerc', 'mexico': 'Monaco Charles Leclerc', 'sao_paulo': 'Monaco Charles Leclerc', 'canadian': 'Monaco Charles Leclerc', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 73 WITH SCORE 4775 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Thailand Alexander Albon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Monaco Charles Leclerc'}
+
+=== TEAM AT POSITION 74 WITH SCORE 4773 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Fernando Alonso', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Spain Fernando Alonso', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 75 WITH SCORE 4773 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Finland Valtteri Bottas', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Monaco Charles Leclerc'}
+
+=== TEAM AT POSITION 76 WITH SCORE 4772 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Japan Yuki Tsunoda', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Japan Yuki Tsunoda'}
+
+=== TEAM AT POSITION 77 WITH SCORE 4772 ===
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Germany Mick Schumacher')
+Mega Drivers: (Netherlands Max Verstappen, monaco), (Netherlands Max Verstappen, canadian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Australia Daniel Ricciardo', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'United Kingdom Lando Norris', 'japanese': 'United Kingdom Lando Norris', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Pierre Gasly', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'France Pierre Gasly', 'italian': 'Australia Daniel Ricciardo', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'France Pierre Gasly', 'us': 'Australia Daniel Ricciardo', 'mexico': 'France Pierre Gasly', 'sao_paulo': 'France Pierre Gasly', 'canadian': 'France Pierre Gasly', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 78 WITH SCORE 4771 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Esteban Ocon', 'dutch': 'Spain Fernando Alonso', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Japan Yuki Tsunoda'}
+
+=== TEAM AT POSITION 79 WITH SCORE 4770 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Canada Lance Stroll', 'Japan Yuki Tsunoda')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'France Pierre Gasly', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Monaco Charles Leclerc', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Japan Yuki Tsunoda'}
+
+=== TEAM AT POSITION 80 WITH SCORE 4769 ===
+Constructor: McLaren-Mercedes
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'France Pierre Gasly')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 81 WITH SCORE 4768 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 82 WITH SCORE 4767 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 83 WITH SCORE 4766 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'France Pierre Gasly', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 84 WITH SCORE 4765 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Spain Carlos Sainz Jr.', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'Spain Fernando Alonso', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Spain Carlos Sainz Jr.', 'hungarian': 'France Esteban Ocon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Spain Fernando Alonso', 'italian': 'Spain Carlos Sainz Jr.', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 85 WITH SCORE 4764 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Japan Yuki Tsunoda', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Japan Yuki Tsunoda'}
+
+=== TEAM AT POSITION 86 WITH SCORE 4762 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Monaco Charles Leclerc', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 87 WITH SCORE 4761 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Germany Mick Schumacher', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Germany Mick Schumacher'}
+
+=== TEAM AT POSITION 88 WITH SCORE 4761 ===
+Constructor: McLaren-Mercedes
+Drivers: ('United Kingdom Lewis Hamilton', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'China Guanyu Zhou')
+Mega Drivers: (United Kingdom Lewis Hamilton, british), (United Kingdom Lewis Hamilton, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Australia Daniel Ricciardo', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'United Kingdom Lando Norris', 'japanese': 'United Kingdom Lando Norris', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'United Kingdom Lando Norris', 'italian': 'Australia Daniel Ricciardo', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'United Kingdom Lando Norris', 'us': 'Australia Daniel Ricciardo', 'mexico': 'United Kingdom Lando Norris', 'sao_paulo': 'United Kingdom Lando Norris', 'canadian': 'France Esteban Ocon', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 89 WITH SCORE 4761 ===
+Constructor: McLaren-Mercedes
+Drivers: ('United Kingdom Lewis Hamilton', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Mega Drivers: (United Kingdom Lewis Hamilton, british), (United Kingdom Lewis Hamilton, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Australia Daniel Ricciardo', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'United Kingdom Lando Norris', 'japanese': 'United Kingdom Lando Norris', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Fernando Alonso', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Spain Fernando Alonso', 'italian': 'Australia Daniel Ricciardo', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'United Kingdom Lando Norris', 'us': 'Australia Daniel Ricciardo', 'mexico': 'United Kingdom Lando Norris', 'sao_paulo': 'United Kingdom Lando Norris', 'canadian': 'Spain Fernando Alonso', 'saudi_arabian': 'Australia Daniel Ricciardo', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 90 WITH SCORE 4760 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Spain Carlos Sainz Jr.', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 91 WITH SCORE 4759 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Thailand Alexander Albon')
+Mega Drivers: (Monaco Charles Leclerc, british), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'United Kingdom Lando Norris', 'japanese': 'Spain Carlos Sainz Jr.', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Monaco Charles Leclerc', 'us': 'Monaco Charles Leclerc', 'mexico': 'Monaco Charles Leclerc', 'sao_paulo': 'Monaco Charles Leclerc', 'canadian': 'Monaco Charles Leclerc', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 92 WITH SCORE 4759 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Finland Valtteri Bottas', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 93 WITH SCORE 4759 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'France Esteban Ocon'}
+
+=== TEAM AT POSITION 94 WITH SCORE 4758 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Thailand Alexander Albon', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Monaco Charles Leclerc'}
+
+=== TEAM AT POSITION 95 WITH SCORE 4757 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'France Esteban Ocon', 'belgian': 'France Esteban Ocon', 'dutch': 'Spain Fernando Alonso', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Fernando Alonso', 'miami': 'Mexico Sergio Pérez', 'us': 'United Kingdom Lando Norris', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 96 WITH SCORE 4757 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'United Kingdom Lando Norris', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'United Kingdom Lando Norris', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Spain Carlos Sainz Jr.', 'italian': 'United Kingdom Lando Norris', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Spain Carlos Sainz Jr.', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Spain Carlos Sainz Jr.', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 97 WITH SCORE 4756 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Spain Carlos Sainz Jr.', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Spain Carlos Sainz Jr.', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Spain Carlos Sainz Jr.', 'belgian': 'Thailand Alexander Albon', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Spain Carlos Sainz Jr.', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'Spain Carlos Sainz Jr.'}
+
+=== TEAM AT POSITION 98 WITH SCORE 4755 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'Monaco Charles Leclerc', 'emilia_romagna': 'Monaco Charles Leclerc', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'France Pierre Gasly', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Monaco Charles Leclerc', 'hungarian': 'France Pierre Gasly', 'belgian': 'France Pierre Gasly', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'Monaco Charles Leclerc', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'France Pierre Gasly'}
+
+=== TEAM AT POSITION 99 WITH SCORE 4755 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Mexico Sergio Pérez, us)
+Turbo Drivers: {'bahrain': 'United Kingdom Lando Norris', 'emilia_romagna': 'United Kingdom Lando Norris', 'australian': 'United Kingdom Lando Norris', 'spanish': 'Monaco Charles Leclerc', 'monaco': 'United Kingdom Lando Norris', 'azerbaijan': 'Monaco Charles Leclerc', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'United Kingdom Lando Norris', 'british': 'Monaco Charles Leclerc', 'hungarian': 'Canada Nicholas Latifi', 'belgian': 'Monaco Charles Leclerc', 'dutch': 'Monaco Charles Leclerc', 'italian': 'Monaco Charles Leclerc', 'singapore': 'United Kingdom Lando Norris', 'miami': 'Mexico Sergio Pérez', 'us': 'Monaco Charles Leclerc', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'Monaco Charles Leclerc', 'abu_dhabi': 'United Kingdom Lando Norris'}
+
+=== TEAM AT POSITION 100 WITH SCORE 4754 ===
+Constructor: Red Bull Racing-Honda
+Drivers: ('Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Canada Lance Stroll')
+Mega Drivers: (Mexico Sergio Pérez, azerbaijan), (Australia Daniel Ricciardo, italian)
+Turbo Drivers: {'bahrain': 'Mexico Sergio Pérez', 'emilia_romagna': 'Australia Daniel Ricciardo', 'australian': 'Mexico Sergio Pérez', 'spanish': 'Mexico Sergio Pérez', 'monaco': 'Mexico Sergio Pérez', 'azerbaijan': 'Spain Fernando Alonso', 'french': 'Mexico Sergio Pérez', 'japanese': 'Mexico Sergio Pérez', 'austrian': 'Mexico Sergio Pérez', 'british': 'Mexico Sergio Pérez', 'hungarian': 'France Esteban Ocon', 'belgian': 'Australia Daniel Ricciardo', 'dutch': 'Spain Fernando Alonso', 'italian': 'Mexico Sergio Pérez', 'singapore': 'Australia Daniel Ricciardo', 'miami': 'Mexico Sergio Pérez', 'us': 'Mexico Sergio Pérez', 'mexico': 'Mexico Sergio Pérez', 'sao_paulo': 'Mexico Sergio Pérez', 'canadian': 'Mexico Sergio Pérez', 'saudi_arabian': 'France Esteban Ocon', 'abu_dhabi': 'Spain Fernando Alonso'}

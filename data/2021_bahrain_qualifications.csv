@@ -1,0 +1,21 @@
+Position,Number,Driver,Constructor,Q1,Q2,Q3,Final grid
+1,33,Netherlands Max Verstappen,Red Bull Racing-Honda,1:30.499,1:30.318,1:28.997,1
+2,44,United Kingdom Lewis Hamilton,Mercedes,1:30.617,1:30.085,1:29.385,2
+3,77,Finland Valtteri Bottas,Mercedes,1:31.200,1:30.186,1:29.586,3
+4,16,Monaco Charles Leclerc,Ferrari,1:30.691,1:30.010,1:29.678,4
+5,10,France Pierre Gasly,AlphaTauri-Honda,1:30.848,1:30.513,1:29.809,5
+6,3,Australia Daniel Ricciardo,McLaren-Mercedes,1:30.795,1:30.222,1:29.927,6
+7,4,United Kingdom Lando Norris,McLaren-Mercedes,1:30.902,1:30.099,1:29.974,7
+8,55,Spain Carlos Sainz Jr.,Ferrari,1:31.653,1:30.009,1:30.215,8
+9,14,Spain Fernando Alonso,Alpine-Renault,1:30.863,1:30.595,1:30.249,9
+10,18,Canada Lance Stroll,Aston Martin-Mercedes,1:31.261,1:30.624,1:30.601,10
+11,11,Mexico Sergio Pérez,Red Bull Racing-Honda,1:31.165,1:30.659,N/A,PL1
+12,99,Italy Antonio Giovinazzi,Alfa Romeo Racing-Ferrari,1:30.998,1:30.708,N/A,12
+13,22,Japan Yuki Tsunoda,AlphaTauri-Honda,1:30.607,1:31.203,N/A,13
+14,7,Finland Kimi Räikkönen,Alfa Romeo Racing-Ferrari,1:31.547,1:31.238,N/A,14
+15,63,United Kingdom George Russell,Williams-Mercedes,1:31.316,1:33.430,N/A,15
+16,31,France Esteban Ocon,Alpine-Renault,1:31.724,N/A,N/A,16
+17,6,Canada Nicholas Latifi,Williams-Mercedes,1:31.936,N/A,N/A,17
+18,5,Germany Sebastian Vettel,Aston Martin-Mercedes,1:32.056,N/A,N/A,20
+19,47,Germany Mick Schumacher,Haas-Ferrari,1:32.449,N/A,N/A,18
+20,9,Russian Automobile Federation Nikita Mazepin,Haas-Ferrari,1:33.273,N/A,N/A,19
