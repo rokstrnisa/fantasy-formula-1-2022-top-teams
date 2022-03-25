@@ -1,0 +1,606 @@
+Current Constructor: Red Bull Racing-RBPT
+Current Drivers: {'Mexico Sergio Pérez', 'Thailand Alexander Albon', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen', 'Netherlands Max Verstappen'}
+
+Explored all of the valid 120391 teams.
+
+Using wildcard!
+
+=== TEAM AT POSITION 1 WITH SCORE 270 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 2 WITH SCORE 267 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 3 WITH SCORE 266 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 4 WITH SCORE 265 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 5 WITH SCORE 264 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 6 WITH SCORE 264 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 7 WITH SCORE 264 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 8 WITH SCORE 263 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 9 WITH SCORE 263 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 10 WITH SCORE 263 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'France Esteban Ocon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 11 WITH SCORE 263 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 12 WITH SCORE 263 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 13 WITH SCORE 263 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 14 WITH SCORE 263 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 15 WITH SCORE 261 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 16 WITH SCORE 261 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 17 WITH SCORE 261 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 18 WITH SCORE 261 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 19 WITH SCORE 261 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 20 WITH SCORE 261 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 21 WITH SCORE 260 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 22 WITH SCORE 260 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 23 WITH SCORE 260 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 24 WITH SCORE 260 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 25 WITH SCORE 259 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 26 WITH SCORE 259 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 27 WITH SCORE 259 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 28 WITH SCORE 259 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Thailand Alexander Albon', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+
+=== TEAM AT POSITION 29 WITH SCORE 259 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 30 WITH SCORE 259 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 31 WITH SCORE 258 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 32 WITH SCORE 258 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 33 WITH SCORE 258 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 34 WITH SCORE 258 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 35 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Lance Stroll', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 36 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 37 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 38 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 39 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 40 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 41 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 42 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 43 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 44 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 45 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 46 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Germany Nico Hulkenberg', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 47 WITH SCORE 257 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 48 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Germany Nico Hulkenberg')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 49 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 50 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 51 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'France Esteban Ocon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 52 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 53 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 54 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 55 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 56 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 57 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 58 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 59 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 60 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Germany Nico Hulkenberg', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 61 WITH SCORE 256 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 62 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 63 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 64 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 65 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 66 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 67 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 68 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 69 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Spain Fernando Alonso', 'France Esteban Ocon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 70 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Thailand Alexander Albon', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 71 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 72 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 73 WITH SCORE 255 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 74 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Lance Stroll', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 75 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 76 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'France Esteban Ocon', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 77 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 6
+
+=== TEAM AT POSITION 78 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 79 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 80 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 81 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 82 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 83 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 84 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 85 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 86 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Thailand Alexander Albon', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 87 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 88 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 89 WITH SCORE 254 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Germany Nico Hulkenberg', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 90 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 91 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Lance Stroll', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 92 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 93 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 94 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 95 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+
+=== TEAM AT POSITION 96 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'China Guanyu Zhou', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 97 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+
+=== TEAM AT POSITION 98 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 99 WITH SCORE 253 ===
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5
+
+=== TEAM AT POSITION 100 WITH SCORE 252 ===
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 5

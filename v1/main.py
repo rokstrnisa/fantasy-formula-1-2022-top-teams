@@ -497,10 +497,10 @@ def main():
                     if driver_prices_2022[driver_2022] >= 20 or is_first_mega_driver or is_second_mega_driver:
                         continue
                     drivers_2021 = driver_mapping_2022_2021[driver_2022]
-                    team_score = sum([combined_location_to_driver_to_score[location_2021].get(driver_2021, 0)
-                                      for driver_2021 in drivers_2021])
-                    if team_score > top_location_score:
-                        top_location_score = team_score
+                    location_score = sum([combined_location_to_driver_to_score[location_2021].get(driver_2021, 0)
+                                          for driver_2021 in drivers_2021])
+                    if location_score > top_location_score:
+                        top_location_score = location_score
                         location_2021_to_turbo_driver[location_2021] = driver_2022
 
             team_score = 0
