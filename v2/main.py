@@ -30,38 +30,38 @@ def get_driver_to_constructor():
 driver_to_constructor = get_driver_to_constructor()
 
 constructor_prices = {
-    'Mercedes': 34.4,
-    'Red Bull Racing-RBPT': 32.4,
-    'Ferrari': 25.4,
-    'McLaren-Mercedes': 18.0,
-    'Alpine-Renault': 14.0,
-    'Aston Martin Aramco-Mercedes': 11.4,
+    'Mercedes': 34.2,
+    'Red Bull Racing-RBPT': 32.3,
+    'Ferrari': 25.7,
+    'McLaren-Mercedes': 17.8,
+    'Alpine-Renault': 13.9,
+    'Aston Martin Aramco-Mercedes': 11.2,
     'AlphaTauri-RBPT': 10.4,
-    'Alfa Romeo-Ferrari': 8.3,
-    'Williams-Mercedes': 6.9,
+    'Alfa Romeo-Ferrari': 8.5,
+    'Williams-Mercedes': 6.8,
     'Haas-Ferrari': 6.2,
 }
 
 driver_prices = {
-    'United Kingdom Lewis Hamilton': 30.9,
+    'United Kingdom Lewis Hamilton': 30.8,
     'Netherlands Max Verstappen': 30.5,
-    'United Kingdom George Russell': 24.0,
-    'Monaco Charles Leclerc': 18.4,
+    'United Kingdom George Russell': 23.8,
+    'Monaco Charles Leclerc': 18.6,
     'Mexico Sergio Pérez': 17.6,
-    'Spain Carlos Sainz Jr.': 17.1,
-    'United Kingdom Lando Norris': 15.7,
-    'Australia Daniel Ricciardo': 14.1,
+    'Spain Carlos Sainz Jr.': 17.2,
+    'United Kingdom Lando Norris': 15.5,
+    'Australia Daniel Ricciardo': 13.9,
     'France Pierre Gasly': 13.4,
-    'Spain Fernando Alonso': 12.4,
-    'France Esteban Ocon': 12.2,
+    'Spain Fernando Alonso': 12.3,
+    'France Esteban Ocon': 12.3,
     'Germany Nico Hulkenberg': 11.5,
-    'Canada Lance Stroll': 9.3,
-    'Finland Valtteri Bottas': 9.3,
+    'Finland Valtteri Bottas': 9.5,
+    'Canada Lance Stroll': 9.2,
     'Japan Yuki Tsunoda': 8.5,
-    'China Guanyu Zhou': 8.1,
-    'Thailand Alexander Albon': 7.4,
+    'China Guanyu Zhou': 8.2,
+    'Thailand Alexander Albon': 7.3,
     'Canada Nicholas Latifi': 6.9,
-    'Germany Mick Schumacher': 6.5,
+    'Germany Mick Schumacher': 6.4,
     'Denmark Kevin Magnussen': 5.9,
 }
 
@@ -80,6 +80,7 @@ race_position_to_points = {
     10: 1
 }
 
+current_team_budget = 100.0
 current_constructor = 'Red Bull Racing-RBPT'
 current_team_drivers = {
     'Netherlands Max Verstappen',
@@ -291,7 +292,7 @@ def main():
 
             # Ignore selection if the price is too high.
             price = team_drivers_price + constructor_prices[constructor]
-            if price > 100:
+            if price > current_team_budget:
                 continue
 
             team_count += 1
