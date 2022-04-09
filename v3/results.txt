@@ -1,0 +1,3756 @@
+===== 1 WINS =====
+Score: 343
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Spain Fernando Alonso')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 273
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 340
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 304
+Constructor: Aston Martin Aramco-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Canada Lance Stroll')
+Turbo Driver: Canada Lance Stroll
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 286
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Denmark Kevin Magnussen')
+Turbo Driver: Australia Daniel Ricciardo
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 317
+Constructor: Williams-Mercedes
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Turbo Driver: Canada Nicholas Latifi
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 343
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Lance Stroll', 'Japan Yuki Tsunoda')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 312
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 329
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 298
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 325
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 267
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 298
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 333
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 316
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 318
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Australia Daniel Ricciardo
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 347
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 318
+Constructor: Alpine-Renault
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 253
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 340
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 328
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Germany Sebastian Vettel', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 359
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 310
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 321
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 338
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 287
+Constructor: Aston Martin Aramco-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom George Russell', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: Canada Lance Stroll
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 307
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 317
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'China Guanyu Zhou', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 320
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 313
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 297
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 316
+Constructor: Alfa Romeo-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: China Guanyu Zhou
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 337
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 307
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 353
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 334
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 298
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 309
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Lance Stroll', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 320
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Germany Sebastian Vettel', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 300
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 343
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 355
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 311
+Constructor: AlphaTauri-RBPT
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Spain Fernando Alonso')
+Turbo Driver: France Pierre Gasly
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 328
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 314
+Constructor: Alpine-Renault
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 313
+Constructor: Aston Martin Aramco-Mercedes
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Germany Sebastian Vettel
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 335
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 296
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 303
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 328
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 321
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 294
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 338
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 366
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 350
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Germany Sebastian Vettel', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 325
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Germany Sebastian Vettel', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 309
+Constructor: Alfa Romeo-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom George Russell', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Finland Valtteri Bottas
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 310
+Constructor: Williams-Mercedes
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Thailand Alexander Albon
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 287
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 302
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Germany Sebastian Vettel')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 291
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 313
+Constructor: Alpine-Renault
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Nicholas Latifi')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 292
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 309
+Constructor: Williams-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Thailand Alexander Albon
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 342
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 356
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 335
+Constructor: Alpine-Renault
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 296
+Constructor: AlphaTauri-RBPT
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Canada Lance Stroll')
+Turbo Driver: France Pierre Gasly
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 291
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'China Guanyu Zhou', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 310
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 334
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 315
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 310
+Constructor: McLaren-Mercedes
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Germany Sebastian Vettel')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 295
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 335
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 329
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 328
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 293
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Germany Sebastian Vettel')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 343
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 335
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 280
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Australia Daniel Ricciardo', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 308
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 334
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 283
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 329
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 348
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 329
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 312
+Constructor: Alpine-Renault
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 292
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Canada Nicholas Latifi')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 338
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 348
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 264
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 309
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 339
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 284
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 320
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 302
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 300
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Germany Sebastian Vettel', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 320
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 338
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 315
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Nicholas Latifi', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 301
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 322
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 277
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 307
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'China Guanyu Zhou', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 369
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 333
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 292
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 338
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 283
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 351
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 326
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 324
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 333
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 308
+Constructor: Alfa Romeo-Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Finland Valtteri Bottas
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 335
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom George Russell', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 273
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 325
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 355
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 307
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 322
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 326
+Constructor: McLaren-Mercedes
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Australia Daniel Ricciardo
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 308
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 335
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 287
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 345
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 339
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 307
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 348
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 341
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 304
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'France Esteban Ocon', 'Spain Fernando Alonso')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 317
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 327
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 314
+Constructor: AlphaTauri-RBPT
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Japan Yuki Tsunoda
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 297
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 336
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 310
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 288
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 320
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 334
+Constructor: Alpine-Renault
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 300
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 347
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 294
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 335
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 307
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 350
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 340
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 298
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 342
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 340
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 293
+Constructor: McLaren-Mercedes
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'China Guanyu Zhou')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 343
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 319
+Constructor: Alfa Romeo-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Finland Valtteri Bottas
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 342
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 344
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 317
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 319
+Constructor: Haas-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Denmark Kevin Magnussen
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 338
+Constructor: Red Bull Racing-RBPT
+Drivers: ('United Kingdom George Russell', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 313
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 257
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 343
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 335
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 299
+Constructor: Williams-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Canada Nicholas Latifi
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 312
+Constructor: McLaren-Mercedes
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 295
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 335
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Germany Sebastian Vettel')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 341
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 328
+Constructor: Alpine-Renault
+Drivers: ('United Kingdom Lewis Hamilton', 'Netherlands Max Verstappen', 'Spain Fernando Alonso', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 342
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 316
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 338
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 305
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 310
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 346
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 274
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Netherlands Max Verstappen', 'Mexico Sergio Pérez', 'Thailand Alexander Albon', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 362
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 328
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 304
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 314
+Constructor: Ferrari
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 302
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 351
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'Germany Sebastian Vettel', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 310
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 349
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 341
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 302
+Constructor: Alfa Romeo-Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Netherlands Max Verstappen', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Finland Valtteri Bottas
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 324
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 334
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 290
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 328
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 307
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 297
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 284
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 287
+Constructor: Alpine-Renault
+Drivers: ('United Kingdom Lewis Hamilton', 'United Kingdom George Russell', 'France Esteban Ocon', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 284
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 308
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 311
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Spain Fernando Alonso')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 337
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 324
+Constructor: Haas-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Germany Mick Schumacher
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 297
+Constructor: Alfa Romeo-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou')
+Turbo Driver: China Guanyu Zhou
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 338
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 292
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 300
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 348
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 310
+Constructor: McLaren-Mercedes
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Canada Nicholas Latifi')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 324
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 308
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 345
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 285
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 311
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'France Esteban Ocon', 'Germany Sebastian Vettel')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 337
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 334
+Constructor: Aston Martin Aramco-Mercedes
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Canada Lance Stroll
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 256
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 292
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'China Guanyu Zhou', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 280
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 342
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Canada Lance Stroll', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 303
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom George Russell', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 343
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Canada Lance Stroll', 'Japan Yuki Tsunoda')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 282
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 323
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 326
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 325
+Constructor: Haas-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Germany Mick Schumacher
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 274
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 348
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 343
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 342
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 329
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Germany Sebastian Vettel', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 334
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 285
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 344
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 349
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 366
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 335
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 334
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Germany Sebastian Vettel', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 341
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Lance Stroll', 'China Guanyu Zhou')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 297
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom George Russell', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Australia Daniel Ricciardo
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 312
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 309
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 314
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 329
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 337
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 326
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 309
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 283
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 318
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 313
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 347
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 338
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 350
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 322
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 351
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 302
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 336
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 325
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 312
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 307
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 312
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Germany Sebastian Vettel')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 293
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 341
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 357
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 327
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 303
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 286
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'China Guanyu Zhou', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 287
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 309
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 340
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 352
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 291
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 353
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 322
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Canada Lance Stroll', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 341
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 303
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 264
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 335
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 338
+Constructor: Aston Martin Aramco-Mercedes
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Lance Stroll')
+Turbo Driver: Canada Lance Stroll
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 280
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+===== 1 WINS =====
+Score: 339
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 288
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Australia Daniel Ricciardo
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 335
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 295
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'China Guanyu Zhou')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 330
+Constructor: Haas-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Germany Mick Schumacher')
+Turbo Driver: Germany Mick Schumacher
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 283
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 343
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 294
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 264
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 298
+Constructor: Aston Martin Aramco-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Canada Lance Stroll
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 298
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 314
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 286
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 329
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 299
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 285
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 317
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 318
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Netherlands Max Verstappen', 'Mexico Sergio Pérez', 'Canada Nicholas Latifi', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 341
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 283
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 283
+Constructor: Haas-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: Denmark Kevin Magnussen
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 298
+Constructor: Williams-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Thailand Alexander Albon
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 332
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Japan Yuki Tsunoda')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 325
+Constructor: Ferrari
+Drivers: ('Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 326
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 299
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Canada Lance Stroll')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 284
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 289
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 318
+Constructor: Alpine-Renault
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'France Esteban Ocon')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 349
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 286
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 347
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'China Guanyu Zhou')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Germany Sebastian Vettel')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 322
+Constructor: Haas-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Denmark Kevin Magnussen')
+Turbo Driver: Denmark Kevin Magnussen
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 322
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 318
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: Australia Daniel Ricciardo
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 292
+Constructor: AlphaTauri-RBPT
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: France Pierre Gasly
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 325
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Thailand Alexander Albon', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 319
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 344
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 322
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 352
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 315
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Germany Sebastian Vettel')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 263
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 317
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 335
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Germany Sebastian Vettel', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 329
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 289
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 325
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 347
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Germany Sebastian Vettel', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 317
+Constructor: McLaren-Mercedes
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 357
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 314
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 304
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 308
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 289
+Constructor: Alfa Romeo-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Canada Lance Stroll', 'China Guanyu Zhou')
+Turbo Driver: China Guanyu Zhou
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 271
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 309
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 6
+===== 1 WINS =====
+Score: 300
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Australia Daniel Ricciardo
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 339
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 311
+Constructor: AlphaTauri-RBPT
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom George Russell', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Germany Mick Schumacher')
+Turbo Driver: France Pierre Gasly
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 316
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 317
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 346
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 324
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Lance Stroll', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 357
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 333
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 334
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Germany Sebastian Vettel', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 319
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 313
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 285
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 335
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 282
+Constructor: McLaren-Mercedes
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 354
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 338
+Constructor: Ferrari
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 295
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 324
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 317
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 299
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 285
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 308
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 343
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 342
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 311
+Constructor: Aston Martin Aramco-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Canada Nicholas Latifi')
+Turbo Driver: Germany Sebastian Vettel
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 274
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 341
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Canada Lance Stroll', 'China Guanyu Zhou')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 342
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 298
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 269
+Constructor: Alpine-Renault
+Drivers: ('United Kingdom Lewis Hamilton', 'Netherlands Max Verstappen', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 258
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 336
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 342
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Lance Stroll', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 306
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 329
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 296
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Netherlands Max Verstappen', 'Mexico Sergio Pérez', 'Thailand Alexander Albon', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 344
+Constructor: Ferrari
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 309
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 351
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 348
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 276
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 294
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 315
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 305
+Constructor: Williams-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Canada Nicholas Latifi
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 322
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 332
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 311
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 285
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 345
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 305
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 326
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Fernando Alonso', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 353
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 361
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 340
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 276
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 284
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 282
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 346
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 333
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 280
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 336
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 354
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 1 WINS =====
+Score: 336
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Germany Sebastian Vettel', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 293
+Constructor: Williams-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Canada Nicholas Latifi')
+Turbo Driver: Canada Nicholas Latifi
+Substitutions Needed: 4
+===== 1 WINS =====
+Score: 341
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 1 WINS =====
+Score: 306
+Constructor: Alpine-Renault
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'France Esteban Ocon')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 5
+===== 1 WINS =====
+Score: 319
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 337
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 305
+Constructor: AlphaTauri-RBPT
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Japan Yuki Tsunoda')
+Turbo Driver: Japan Yuki Tsunoda
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 334
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Germany Sebastian Vettel')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 303
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 333
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 329
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 311
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 286
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Spain Fernando Alonso')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 340
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 320
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 345
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 296
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 356
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 313
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 283
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 326
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 323
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 257
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Finland Valtteri Bottas', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 297
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 299
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 328
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 337
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 290
+Constructor: McLaren-Mercedes
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: United Kingdom Lando Norris
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 274
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+===== 2 WINS =====
+Score: 341
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 303
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 285
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'United Kingdom Lando Norris', 'Germany Sebastian Vettel', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 303
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 312
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Australia Daniel Ricciardo', 'Japan Yuki Tsunoda', 'China Guanyu Zhou')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 2 WINS =====
+Score: 332
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 347
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 288
+Constructor: Alfa Romeo-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Finland Valtteri Bottas
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 333
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 355
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 357
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 299
+Constructor: Alfa Romeo-Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas')
+Turbo Driver: Finland Valtteri Bottas
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 346
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 284
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 280
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 306
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 316
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 313
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 303
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 312
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 286
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 344
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 287
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 320
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 285
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 311
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 280
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 314
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 337
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 315
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 289
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Canada Lance Stroll')
+Turbo Driver: France Esteban Ocon
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 314
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 311
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 335
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Germany Sebastian Vettel', 'Canada Nicholas Latifi')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 5
+===== 2 WINS =====
+Score: 316
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Germany Sebastian Vettel')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 338
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 326
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Germany Sebastian Vettel')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 339
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 292
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 348
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 347
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 295
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 345
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 310
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 323
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Australia Daniel Ricciardo', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 294
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 285
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 1
+===== 2 WINS =====
+Score: 363
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 350
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Lance Stroll', 'China Guanyu Zhou')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 325
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Sebastian Vettel', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 363
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 318
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 306
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 324
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 2 WINS =====
+Score: 344
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Sebastian Vettel', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 307
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Canada Lance Stroll', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 336
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 2 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 2 WINS =====
+Score: 350
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 3 WINS =====
+Score: 294
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 304
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Thailand Alexander Albon')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 270
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 3 WINS =====
+Score: 304
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 314
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 331
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 301
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('United Kingdom Lewis Hamilton', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 319
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'China Guanyu Zhou', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 297
+Constructor: Alpine-Renault
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'China Guanyu Zhou')
+Turbo Driver: Spain Fernando Alonso
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 353
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 3 WINS =====
+Score: 333
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 338
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 317
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 303
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 320
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 3 WINS =====
+Score: 307
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'China Guanyu Zhou')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 3 WINS =====
+Score: 280
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 3 WINS =====
+Score: 272
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'China Guanyu Zhou', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 3 WINS =====
+Score: 272
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 2
+===== 3 WINS =====
+Score: 354
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 3 WINS =====
+Score: 336
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 291
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 3 WINS =====
+Score: 349
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'France Pierre Gasly', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 3 WINS =====
+Score: 299
+Constructor: Red Bull Racing-RBPT
+Drivers: ('Netherlands Max Verstappen', 'Mexico Sergio Pérez', 'Thailand Alexander Albon', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Mexico Sergio Pérez
+Substitutions Needed: 4
+===== 3 WINS =====
+Score: 304
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 319
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Thailand Alexander Albon', 'Canada Nicholas Latifi')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 2
+===== 3 WINS =====
+Score: 309
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 3 WINS =====
+Score: 346
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 3 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 4 WINS =====
+Score: 360
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 4 WINS =====
+Score: 341
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 4 WINS =====
+Score: 287
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 4 WINS =====
+Score: 335
+Constructor: Ferrari
+Drivers: ('United Kingdom George Russell', 'Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 4 WINS =====
+Score: 347
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 4 WINS =====
+Score: 325
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 4 WINS =====
+Score: 315
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Canada Lance Stroll', 'Japan Yuki Tsunoda', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 4 WINS =====
+Score: 296
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 4 WINS =====
+Score: 342
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 4 WINS =====
+Score: 286
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 4 WINS =====
+Score: 338
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Canada Lance Stroll')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 4 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 4 WINS =====
+Score: 345
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Australia Daniel Ricciardo', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 4 WINS =====
+Score: 293
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Germany Sebastian Vettel', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 4 WINS =====
+Score: 350
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 4 WINS =====
+Score: 355
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 4 WINS =====
+Score: 334
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 4 WINS =====
+Score: 298
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'China Guanyu Zhou', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 4 WINS =====
+Score: 307
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Pierre Gasly', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 4 WINS =====
+Score: 295
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 2
+===== 4 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 4 WINS =====
+Score: 322
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 5 WINS =====
+Score: 313
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Canada Lance Stroll', 'Canada Nicholas Latifi')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 5 WINS =====
+Score: 320
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 5 WINS =====
+Score: 355
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 5 WINS =====
+Score: 328
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 5 WINS =====
+Score: 334
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+===== 5 WINS =====
+Score: 301
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Lance Stroll')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 5 WINS =====
+Score: 336
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'France Pierre Gasly', 'France Esteban Ocon', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 5 WINS =====
+Score: 327
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Thailand Alexander Albon')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 5 WINS =====
+Score: 301
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Canada Lance Stroll', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 2
+===== 5 WINS =====
+Score: 317
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 4
+===== 5 WINS =====
+Score: 296
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 5 WINS =====
+Score: 291
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'Spain Fernando Alonso', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 5 WINS =====
+Score: 297
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Spain Fernando Alonso', 'Finland Valtteri Bottas')
+Turbo Driver: Spain Carlos Sainz Jr.
+Substitutions Needed: 3
+===== 5 WINS =====
+Score: 302
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 5 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 6 WINS =====
+Score: 326
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+===== 6 WINS =====
+Score: 293
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Germany Mick Schumacher', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 6 WINS =====
+Score: 282
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+===== 7 WINS =====
+Score: 316
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+===== 7 WINS =====
+Score: 321
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 7 WINS =====
+Score: 330
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 8 WINS =====
+Score: 334
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Mexico Sergio Pérez', 'Spain Carlos Sainz Jr.', 'France Esteban Ocon', 'Japan Yuki Tsunoda')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 8 WINS =====
+Score: 361
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+===== 8 WINS =====
+Score: 316
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 10 WINS =====
+Score: 336
+Constructor: Ferrari
+Drivers: ('Monaco Charles Leclerc', 'Spain Carlos Sainz Jr.', 'United Kingdom Lando Norris', 'France Pierre Gasly', 'Finland Valtteri Bottas')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 4
+===== 10 WINS =====
+Score: 285
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 3
+===== 12 WINS =====
+Score: 287
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Finland Valtteri Bottas', 'Japan Yuki Tsunoda', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+===== 14 WINS =====
+Score: 302
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 0

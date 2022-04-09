@@ -1,7 +1,7 @@
+import random
+
 import itertools
-
-from sortedcontainers import SortedList
-
+from typing import Optional
 
 constructor_to_drivers = {
     'Mercedes': ['United Kingdom Lewis Hamilton', 'United Kingdom George Russell'],
@@ -89,53 +89,110 @@ current_team_drivers = {
     'Denmark Kevin Magnussen',
 }
 
-predicted_qualification_order = [
-    'Monaco Charles Leclerc',
-    'Netherlands Max Verstappen',
-    'Spain Carlos Sainz Jr.',
-    'Mexico Sergio Pérez',
-    'United Kingdom Lewis Hamilton',
-    'United Kingdom George Russell',
-    'Spain Fernando Alonso',
-    'France Esteban Ocon',
-    'United Kingdom Lando Norris',
-    'Finland Valtteri Bottas',
-    'France Pierre Gasly',
-    'Australia Daniel Ricciardo',
-    'Denmark Kevin Magnussen',
-    'Japan Yuki Tsunoda',
-    'Germany Mick Schumacher',
-    'Canada Lance Stroll',
-    'China Guanyu Zhou',
-    'Germany Sebastian Vettel',
-    'Thailand Alexander Albon',
-    'Canada Nicholas Latifi',
-]
+qualifying_winner_driver_to_odds = {
+    'Monaco Charles Leclerc': 6/4,
+    'Netherlands Max Verstappen': 6/4,
+    'Spain Carlos Sainz Jr.': 3/1,
+    'Mexico Sergio Pérez': 12/1,
+    'United Kingdom Lewis Hamilton': 25/1,
+    'United Kingdom George Russell': 66/1,
+    'Spain Fernando Alonso': 66/1,
+    'France Esteban Ocon': 66/1,
+    'United Kingdom Lando Norris': 125/1,
+    'Finland Valtteri Bottas': 125/1,
+    'France Pierre Gasly': 175/1,
+    'Australia Daniel Ricciardo': 175/1,
+    'Denmark Kevin Magnussen': 325/1,
+    'Japan Yuki Tsunoda': 325/1,
+    'Germany Mick Schumacher': 325/1,
+    'Canada Lance Stroll': 500/1,
+    'China Guanyu Zhou': 500/1,
+    'Germany Sebastian Vettel': 500/1,
+    'Thailand Alexander Albon': 500/1,
+    'Canada Nicholas Latifi': 500/1,
+}
 
-predicted_race_fastest_lap = 'Netherlands Max Verstappen'
+fastest_lap_driver_to_odds = {
+    'Netherlands Max Verstappen': 6 / 4,
+    'Monaco Charles Leclerc': 17 / 10,
+    'Spain Carlos Sainz Jr.': 3 / 1,
+    'Mexico Sergio Pérez': 9 / 1,
+    'United Kingdom Lewis Hamilton': 14 / 1,
+    'United Kingdom George Russell': 30 / 1,
+    'Spain Fernando Alonso': 66 / 1,
+    'France Esteban Ocon': 66 / 1,
+    'Germany Mick Schumacher': 100 / 1,
+    'France Pierre Gasly': 100 / 1,
+    'Denmark Kevin Magnussen': 100 / 1,
+    'Finland Valtteri Bottas': 100 / 1,
+    'United Kingdom Lando Norris': 175 / 1,
+    'Australia Daniel Ricciardo': 175 / 1,
+    'China Guanyu Zhou': 275 / 1,
+    'Thailand Alexander Albon': 275 / 1,
+    'Canada Nicholas Latifi': 275 / 1,
+    'Japan Yuki Tsunoda': 275 / 1,
+    'Germany Sebastian Vettel': 275 / 1,
+    'Canada Lance Stroll': 275 / 1,
+}
 
-predicted_race_order = [
-    'Monaco Charles Leclerc',
-    'Netherlands Max Verstappen',
-    'Spain Carlos Sainz Jr.',
-    'Mexico Sergio Pérez',
-    'United Kingdom Lewis Hamilton',
-    'France Esteban Ocon',
-    'Spain Fernando Alonso',
-    'United Kingdom George Russell',
-    'United Kingdom Lando Norris',
-    'Finland Valtteri Bottas',
-    'Australia Daniel Ricciardo',
-    'France Pierre Gasly',
-    'Denmark Kevin Magnussen',
-    'Germany Mick Schumacher',
-    'Japan Yuki Tsunoda',
-    'Canada Lance Stroll',
-    'China Guanyu Zhou',
-    'Germany Sebastian Vettel',
-    'Canada Nicholas Latifi',
-    'Thailand Alexander Albon',
-]
+race_winner_driver_to_odds = {
+    'Monaco Charles Leclerc': 11/8,
+    'Netherlands Max Verstappen': 6/4,
+    'Spain Carlos Sainz Jr.': 4/1,
+    'Mexico Sergio Pérez': 16/1,
+    'United Kingdom Lewis Hamilton': 25/1,
+    'France Esteban Ocon': 66/1,
+    'Spain Fernando Alonso': 66/1,
+    'United Kingdom George Russell': 66/1,
+    'United Kingdom Lando Norris': 100/1,
+    'Finland Valtteri Bottas': 125/1,
+    'Australia Daniel Ricciardo': 175/1,
+    'France Pierre Gasly': 175/1,
+    'Denmark Kevin Magnussen': 275/1,
+    'Germany Mick Schumacher': 275/1,
+    'Japan Yuki Tsunoda': 275/1,
+    'Canada Lance Stroll': 500/1,
+    'China Guanyu Zhou': 500/1,
+    'Germany Sebastian Vettel': 500/1,
+    'Canada Nicholas Latifi': 500/1,
+    'Thailand Alexander Albon': 500/1,
+}
+
+
+def odds_to_probability(odds):
+    return 1.0 / (odds + 1.0)
+
+
+def get_winner(driver_to_odds):
+    probability_sum = 0.0
+    for driver, odds in driver_to_odds.items():
+        probability = odds_to_probability(odds)
+        probability_sum += probability
+    normalized_probability_sum = 0
+    driver_to_normalized_probability_sum = {}
+    for driver, odds in driver_to_odds.items():
+        probability = odds_to_probability(odds)
+        normalized_probability = probability / probability_sum
+        normalized_probability_sum += normalized_probability
+        driver_to_normalized_probability_sum[driver] = normalized_probability_sum
+    # print(driver_to_normalized_probability_sum)
+    random_point = random.random()
+    for driver, normalized_probability_sum in driver_to_normalized_probability_sum.items():
+        if normalized_probability_sum > random_point:
+            return driver
+    print(random_point)
+    raise 'hmm'
+
+
+def get_order(driver_to_odds):
+    order = []
+    driver_to_odds = dict(driver_to_odds)
+    while len(driver_to_odds) != 0:
+        winner = get_winner(driver_to_odds)
+        order.append(winner)
+        del driver_to_odds[winner]
+    return order
+
 
 driver_to_score = {}
 driver_only_to_score = {}
@@ -189,9 +246,9 @@ def get_driver_position(order, specific_driver):
             return index + 1
 
 
-def score_predicted_qualification_order():
+def score_qualifying_order(qualifying_order):
     # Assumed to have qualified. Not looking at streaks yet.
-    for index, driver in enumerate(predicted_qualification_order):
+    for index, driver in enumerate(qualifying_order):
         # +1 for Q1 finish (assumed to have finished)
         add_to_driver(driver, 1)
         # +2 for Q2 finish (assumed to have finished)
@@ -204,22 +261,22 @@ def score_predicted_qualification_order():
             add_to_driver(driver, 11 - position)
     for constructor in constructors:
         # +2 for driver qualifying ahead of their teammate (driver only)
-        first = get_first_driver(predicted_qualification_order, constructor)
+        first = get_first_driver(qualifying_order, constructor)
         add_to_driver_only(first, 2)
 
 
-def score_predicted_race_fastest_lap():
+def score_race_fastest_lap(fastest_lap):
     # +5 for fastest lap (assumed to be the driver that won)
-    add_to_driver(predicted_race_fastest_lap, 5)
+    add_to_driver(fastest_lap, 5)
 
 
-def score_predicted_race_order():
+def score_race_order(qualifying_order, race_order):
     # Assumed to have finished the race. Not looking at streaks yet.
-    for index, driver in enumerate(predicted_race_order):
+    for index, driver in enumerate(race_order):
         # +1 for finish (assumed to have finished)
         add_to_driver(driver, 1)
         # +2/-2 per position gained/lost; max +10/-10
-        previous_position = get_driver_position(predicted_qualification_order, driver)
+        previous_position = get_driver_position(qualifying_order, driver)
         position = index + 1
         position_diff_points = max(min(2 * (previous_position - position), 10), -10)
         add_to_driver(driver, position_diff_points)
@@ -229,7 +286,7 @@ def score_predicted_race_order():
             add_to_driver(driver, position_points)
     for constructor in constructors:
         # +3 for finishing ahead of teammate (driver only)
-        first = get_first_driver(predicted_race_order, constructor)
+        first = get_first_driver(race_order, constructor)
         add_to_driver_only(first, 3)
 
 
@@ -259,29 +316,40 @@ class Team:
     def __lt__(self, other):
         return self.score < other.score
 
+    def __eq__(self, other):
+        return self.constructor == other.constructor and self.driver_selection == other.driver_selection \
+               and self.turbo_driver == other.turbo_driver
+
+    def __hash__(self):
+        return hash((self.constructor, self.driver_selection, self.turbo_driver))
+
     def __str__(self):
-        return f'Constructor: {self.constructor}\n' \
+        return f'Score: {self.score}\n' \
+               f'Constructor: {self.constructor}\n' \
                f'Drivers: {self.driver_selection}\n' \
                f'Turbo Driver: {self.turbo_driver}\n' \
                f'Substitutions Needed: {self.substitutions_needed}'
 
 
-def main():
-    score_predicted_qualification_order()
-    score_predicted_race_fastest_lap()
-    score_predicted_race_order()
+total_value = 100.9
+use_wildcard = True
+
+
+def get_winning_team(qualifying_order, fastest_lap, race_order):
+    global driver_to_score
+    global driver_only_to_score
+
+    driver_to_score = {}
+    driver_only_to_score = {}
+
+    score_qualifying_order(qualifying_order)
+    score_race_fastest_lap(fastest_lap)
+    score_race_order(qualifying_order, race_order)
+
     combined_driver_to_score = get_combined_driver_to_score()
 
-    print(f'Current Constructor: {current_constructor}')
-    print(f'Current Drivers: {current_team_drivers}')
-    print()
-
-    total_value = 100.9
-    use_wildcard = True
-
-    # Keep track of the top teams.
     team_count = 0
-    top_teams = SortedList()
+    top_team: Optional[Team] = None
 
     # Go through all driver combinations of size 5.
     for team_drivers in itertools.combinations(drivers, 5):
@@ -334,19 +402,23 @@ def main():
 
             # If the best score so far, store it.
             team = Team(team_score, constructor, team_drivers, turbo_driver, substitutions_needed)
-            top_teams.add(team)
-            if len(top_teams) > 100:
-                top_teams.pop(0)
+            if not top_team or team.score > top_team.score:
+                top_team = team
+    return top_team
 
-    print(f'Explored all of the valid {team_count} teams.\n')
 
-    if use_wildcard:
-        print(f'Using wildcard!\n')
-
-    for index, team in enumerate(reversed(top_teams)):
-        print(f'=== TEAM AT POSITION {index + 1} WITH SCORE {team.score} ===')
+def main():
+    team_to_win_count = {}
+    for run in range(1000):
+        qualifying_order = get_order(qualifying_winner_driver_to_odds)
+        fastest_lap = get_order(fastest_lap_driver_to_odds)[0]
+        race_order = get_order(race_winner_driver_to_odds)
+        winning_team = get_winning_team(qualifying_order, fastest_lap, race_order)
+        team_to_win_count.setdefault(winning_team, 0)
+        team_to_win_count[winning_team] += 1
+    for team in sorted(team_to_win_count, key=team_to_win_count.get):
+        print(f'===== {team_to_win_count[team]} WINS =====')
         print(team)
-        print()
 
 
 if __name__ == "__main__":

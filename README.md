@@ -5,3 +5,4 @@ A collection of Python tools that tries to help with the
 
 * [v1](v1): Predicts top N teams based on last year's data.
 * [v2](v2): Uses external predictions to find the best team.
+* [v3](v3): Uses external predictions with Monte Carlo to find the best team.
