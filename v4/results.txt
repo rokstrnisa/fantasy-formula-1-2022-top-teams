@@ -1,0 +1,40 @@
+...
+======================================
+========== AFTER 10000 RUNS ==========
+======================================
+===== 141 WINS =====
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Thailand Alexander Albon', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+Total score across wins: 41787
+Average score per win: 296.36
+===== 128 WINS =====
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'France Esteban Ocon', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+Total score across wins: 37982
+Average score per win: 296.73
+===== 114 WINS =====
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Thailand Alexander Albon', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 0
+Total score across wins: 34082
+Average score per win: 298.96
+===== 111 WINS =====
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Nicholas Latifi', 'Denmark Kevin Magnussen')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 1
+Total score across wins: 33448
+Average score per win: 301.33
+===== 111 WINS =====
+Constructor: Ferrari
+Drivers: ('Netherlands Max Verstappen', 'Monaco Charles Leclerc', 'Spain Fernando Alonso', 'Canada Nicholas Latifi', 'Germany Mick Schumacher')
+Turbo Driver: Monaco Charles Leclerc
+Substitutions Needed: 2
+Total score across wins: 33250
+Average score per win: 299.55
+...
