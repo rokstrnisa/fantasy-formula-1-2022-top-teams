@@ -285,6 +285,10 @@ def score_race_order(qualifying_order, race_order):
         position_points = race_position_to_points.get(position)
         if position_points:
             add_to_driver(driver, position_points)
+    for driver in drivers:
+        # -10 for not classifying
+        if driver not in race_order:
+            add_to_driver(driver, -10)
     for constructor in constructors:
         # +3 for finishing ahead of teammate (driver only)
         first = get_first_driver(race_order, constructor)
