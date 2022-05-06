@@ -362,12 +362,13 @@ def get_combined_driver_to_score():
 
 
 class Team:
-    def __init__(self, constructor, driver_selection, mega_driver, turbo_driver, substitutions_needed):
+    def __init__(self, constructor, driver_selection, substitutions_needed, turbo_driver, mega_driver=None):
         self.constructor = constructor
         self.driver_selection = driver_selection
-        self.mega_driver = mega_driver
-        self.turbo_driver = turbo_driver
         self.substitutions_needed = substitutions_needed
+        self.turbo_driver = turbo_driver
+        self.mega_driver = mega_driver
+
 
     def __eq__(self, other):
         return self.constructor == other.constructor and self.driver_selection == other.driver_selection \
@@ -392,6 +393,7 @@ class Team:
 budget = 101.1
 use_wildcard = True
 team_to_score_sum = {}
+use_megadriver = False
 
 
 def score_all_possible_teams(qualifying_order, fastest_lap, race_order):
@@ -431,20 +433,27 @@ def score_all_possible_teams(qualifying_order, fastest_lap, race_order):
             # possible teams can contain at most 2 members with price above $20M. The cheapest team containing all 3
             # drivers with price above $20M would require a budget of $103.3M.
             top_driver_score_pairs = sorted(team_driver_to_score.items(), key=lambda kv: kv[1], reverse=True)[:3]
-            top_turbo_mega_score = float('-inf')
             top_turbo_driver = None
             top_mega_driver = None
-            for turbo_driver, turbo_driver_score in top_driver_score_pairs:
-                if driver_prices[turbo_driver] >= 20:
-                    continue
-                for mega_driver, mega_driver_score in top_driver_score_pairs:
-                    if mega_driver == turbo_driver:
+            if use_megadriver:
+                top_turbo_mega_score = float('-inf')
+                for turbo_driver, turbo_driver_score in top_driver_score_pairs:
+                    if driver_prices[turbo_driver] >= 20:
                         continue
-                    mega_turbo_score = 2*turbo_driver_score + 3*mega_driver_score
-                    if mega_turbo_score > top_turbo_mega_score:
-                        top_turbo_mega_score = mega_turbo_score
+                    for mega_driver, mega_driver_score in top_driver_score_pairs:
+                        if mega_driver == turbo_driver:
+                            continue
+                        mega_turbo_score = 2*turbo_driver_score + 3*mega_driver_score
+                        if mega_turbo_score > top_turbo_mega_score:
+                            top_turbo_mega_score = mega_turbo_score
+                            top_turbo_driver = turbo_driver
+                            top_mega_driver = mega_driver
+            else:
+                top_turbo_score = float('-inf')
+                for turbo_driver in team_driver_to_score:
+                    if driver_prices[turbo_driver] < 20 and team_driver_to_score[turbo_driver] > top_turbo_score:
                         top_turbo_driver = turbo_driver
-                        top_mega_driver = mega_driver
+                        top_turbo_score = team_driver_to_score[turbo_driver]
 
             team_score = 0
 
@@ -477,7 +486,7 @@ def score_all_possible_teams(qualifying_order, fastest_lap, race_order):
             team_score += constructor_only_score.get(constructor, 0)
 
             # Count the team's score towards its sum.
-            team = Team(constructor, team_drivers, top_mega_driver, top_turbo_driver, substitutions_needed)
+            team = Team(constructor, team_drivers, substitutions_needed, top_turbo_driver, top_mega_driver)
             team_to_score_sum.setdefault(team, 0)
             team_to_score_sum[team] += team_score
 
