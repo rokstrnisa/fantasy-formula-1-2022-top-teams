@@ -389,7 +389,7 @@ class Team:
         return f'{driver_to_shorthand[driver]}{suffix}'
 
 
-total_value = 101.1
+budget = 101.1
 use_wildcard = True
 team_to_score_sum = {}
 
@@ -421,15 +421,12 @@ def score_all_possible_teams(qualifying_order, fastest_lap, race_order):
 
             # Ignore selection if the price is too high.
             price = team_drivers_price + constructor_prices[constructor]
-            if price > total_value:
+            if price > budget:
                 continue
 
-            # Pick both the turbo driver and the mega driver based on the score they will contribute (a driver
-            # contributes more if they are also in the chosen constructor), where the two cannot be the same driver,
-            # and where the turbo driver cannot be more expensive than $20M.
-            team_driver_to_score =\
-                {d: combined_driver_to_score[d] + (driver_to_score[d] if d in constructor_drivers else 0)
-                 for d in team_drivers}
+            # Pick both the turbo driver and the mega driver based on the score they will contribute, where the two
+            # cannot be the same driver, and where the turbo driver cannot be more expensive than $20M.
+            team_driver_to_score = {d: combined_driver_to_score[d] for d in team_drivers}
             # Only need to consider the top 3 scoring members of the team, since (according to the current prices) all
             # possible teams can contain at most 2 members with price above $20M. The cheapest team containing all 3
             # drivers with price above $20M would require a budget of $103.3M.
@@ -472,13 +469,9 @@ def score_all_possible_teams(qualifying_order, fastest_lap, race_order):
                 team_score += combined_driver_to_score[driver] * multiplier
 
             # Add scores (excluding driver-only) from the two drivers in the chosen constructor to the team score.
+            # As per the rules, these are added without the multiplier.
             for driver in constructor_drivers:
-                multiplier = 1
-                if driver == top_turbo_driver:
-                    multiplier = 2
-                elif driver == top_mega_driver:
-                    multiplier = 3
-                team_score += driver_to_score[driver] * multiplier
+                team_score += driver_to_score[driver]
 
             # Add constructor-only score (e.g. constructor streaks).
             team_score += constructor_only_score.get(constructor, 0)
@@ -499,7 +492,8 @@ def get_drivers_not_classifying():
 
 
 def main():
-    for run in range(10000):
+    runs = 10000
+    for run in range(runs):
         drivers_not_classifying = get_drivers_not_classifying()
         qualifying_order = get_order(qualifying_winner_driver_to_odds)
         qualifying_order = [d for d in qualifying_order if d not in drivers_not_classifying]
@@ -508,7 +502,7 @@ def main():
         fastest_lap = fastest_lap_order[0]
         race_order = qualifying_order.copy()
         score_all_possible_teams(qualifying_order, fastest_lap, race_order)
-        if run != 0 and run % 10 == 0:
+        if run > 0 and run % 10 == 0 or run == runs - 1:
             print(f'================ AFTER {run:5} RUNS ================')
             for position, team in enumerate(sorted(team_to_score_sum, key=team_to_score_sum.get, reverse=True)):
                 if position < 30:
