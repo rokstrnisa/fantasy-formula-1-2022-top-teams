@@ -43,35 +43,35 @@ driver_to_constructor = get_driver_to_constructor()
 
 constructor_prices = {
     'Mercedes': 33.8,
-    'Red Bull Racing-RBPT': 32.1,
-    'Ferrari': 25.8,
-    'McLaren-Mercedes': 17.5,
-    'Alpine-Renault': 14.0,
-    'Aston Martin Aramco-Mercedes': 11.0,
+    'Red Bull Racing-RBPT': 32.7,
+    'Ferrari': 25.7,
+    'McLaren-Mercedes': 17.6,
+    'Alpine-Renault': 13.9,
+    'Aston Martin Aramco-Mercedes': 10.9,
     'AlphaTauri-RBPT': 10.1,
-    'Alfa Romeo-Ferrari': 8.3,
-    'Haas-Ferrari': 6.7,
+    'Alfa Romeo-Ferrari': 8.4,
+    'Haas-Ferrari': 6.5,
     'Williams-Mercedes': 6.5,
 }
 
 driver_prices = {
     'United Kingdom Lewis Hamilton': 30.3,
-    'Netherlands Max Verstappen': 30.2,
-    'United Kingdom George Russell': 24.0,
-    'Monaco Charles Leclerc': 18.9,
-    'Mexico Sergio Pérez': 18.1,
-    'Spain Carlos Sainz Jr.': 17.3,
+    'Netherlands Max Verstappen': 30.1,
+    'United Kingdom George Russell': 23.9,
+    'Monaco Charles Leclerc': 19.0,
+    'Mexico Sergio Pérez': 18.5,
+    'Spain Carlos Sainz Jr.': 17.2,
     'United Kingdom Lando Norris': 16.0,
-    'Australia Daniel Ricciardo': 14.1,
+    'Australia Daniel Ricciardo': 13.8,
     'France Pierre Gasly': 13.0,
-    'France Esteban Ocon': 12.5,
-    'Spain Fernando Alonso': 12.5,
+    'France Esteban Ocon': 12.4,
+    'Spain Fernando Alonso': 12.4,
     'Germany Sebastian Vettel': 11.4,
     'Finland Valtteri Bottas': 9.4,
     'Canada Lance Stroll': 8.9,
-    'China Guanyu Zhou': 8.4,
+    'China Guanyu Zhou': 8.3,
     'Japan Yuki Tsunoda': 8.3,
-    'Thailand Alexander Albon': 7.2,
+    'Thailand Alexander Albon': 7.9,
     'Canada Nicholas Latifi': 6.6,
     'Germany Mick Schumacher': 6.2,
     'Denmark Kevin Magnussen': 6.1,
@@ -115,101 +115,97 @@ race_position_to_points = {
     10: 1
 }
 
-upcoming_driver_qualifying_streak = {
-    'Netherlands Max Verstappen',
-    'Monaco Charles Leclerc',
-    'Mexico Sergio Pérez',
-    'Spain Carlos Sainz Jr.',
-    'Spain Fernando Alonso',
-}
+upcoming_driver_qualifying_streak = {}
 
 upcoming_constructor_qualifying_streak = {
-    'McLaren-Mercedes',
+    'Ferrari',
+    'Red Bull Racing-RBPT',
 }
 
 upcoming_driver_race_streak = {
-    'Monaco Charles Leclerc',
-    'United Kingdom George Russell',
+    'Mexico Sergio Pérez',
 }
 
-upcoming_constructor_race_streak = {}
+upcoming_constructor_race_streak = {
+    'Red Bull Racing-RBPT',
+}
 
 current_constructor = 'Ferrari'
 current_team_drivers = {
     'Netherlands Max Verstappen',
     'Monaco Charles Leclerc',
-    'Spain Fernando Alonso',
+    'Denmark Kevin Magnussen',
     'Thailand Alexander Albon',
     'Germany Mick Schumacher',
 }
 
 qualifying_winner_driver_to_odds = {
-    'Netherlands Max Verstappen': 1/1,
-    'Monaco Charles Leclerc': 11/8,
-    'Spain Carlos Sainz Jr.': 11/2,
-    'Mexico Sergio Pérez': 14/1,
-    'United Kingdom Lewis Hamilton': 50/1,
-    'United Kingdom Lando Norris': 50/1,
-    'Spain Fernando Alonso': 70/1,
-    'United Kingdom George Russell': 70/1,
-    'Australia Daniel Ricciardo': 125/1,
-    'France Esteban Ocon': 175/1,
-    'Finland Valtteri Bottas': 225/1,
-    'Denmark Kevin Magnussen': 275/1,
-    'France Pierre Gasly': 275/1,
-    'Canada Lance Stroll': 500/1,
-    'Germany Sebastian Vettel': 500/1,
-    'Thailand Alexander Albon': 500/1,
+    'Monaco Charles Leclerc': 4/5,
+    'Netherlands Max Verstappen': 6/4,
+    'Spain Carlos Sainz Jr.': 6/1,
+    'United Kingdom Lewis Hamilton': 25/1,
+    'Mexico Sergio Pérez': 25/1,
+    'United Kingdom George Russell': 25/1,
+    'United Kingdom Lando Norris': 125/1,
+    'Finland Valtteri Bottas': 150/1,
+    'Spain Fernando Alonso': 225/1,
     'Canada Nicholas Latifi': 500/1,
-    'Japan Yuki Tsunoda': 500/1,
-    'China Guanyu Zhou': 500/1,
+    'Germany Sebastian Vettel': 500/1,
+    'France Esteban Ocon': 500/1,
     'Germany Mick Schumacher': 500/1,
+    'Australia Daniel Ricciardo': 500/1,
+    'France Pierre Gasly': 500/1,
+    'Japan Yuki Tsunoda': 500/1,
+    'Denmark Kevin Magnussen': 500/1,
+    'China Guanyu Zhou': 500/1,
+    'Canada Lance Stroll': 500/1,
+    'Thailand Alexander Albon': 500/1,
 }
 
 fastest_lap_driver_to_odds = {
-    'Netherlands Max Verstappen': 8/5,
-    'Monaco Charles Leclerc': 8/5,
-    'Spain Carlos Sainz Jr.': 5/1,
-    'Mexico Sergio Pérez': 13/2,
+    'Monaco Charles Leclerc': 6/5,
+    'Netherlands Max Verstappen': 6/5,
+    'Spain Carlos Sainz Jr.': 13/2,
+    'Mexico Sergio Pérez': 10/1,
     'United Kingdom Lewis Hamilton': 30/1,
-    'United Kingdom Lando Norris': 30/1,
-    'Spain Fernando Alonso': 50/1,
-    'United Kingdom George Russell': 50/1,
-    'Australia Daniel Ricciardo': 75/1,
-    'Finland Valtteri Bottas': 125/1,
-    'France Esteban Ocon': 150/1,
-    'Denmark Kevin Magnussen': 150/1,
-    'Germany Mick Schumacher': 175/1,
-    'France Pierre Gasly': 175/1,
+    'United Kingdom George Russell': 30/1,
+    'Finland Valtteri Bottas': 70/1,
+    'Spain Fernando Alonso': 70/1,
+    'Australia Daniel Ricciardo': 100/1,
+    'United Kingdom Lando Norris': 100/1,
+    'France Esteban Ocon': 100/1,
+    'Denmark Kevin Magnussen': 100/1,
+    'France Pierre Gasly': 100/1,
+    'Germany Sebastian Vettel': 275/1,
+    'Germany Mick Schumacher': 275/1,
+    'Canada Nicholas Latifi': 275/1,
+    'Canada Lance Stroll': 275/1,
+    'Thailand Alexander Albon': 275/1,
     'Japan Yuki Tsunoda': 275/1,
-    'China Guanyu Zhou': 325/1,
-    'Germany Sebastian Vettel': 325/1,
-    'Canada Nicholas Latifi': 500/1,
-    'Canada Lance Stroll': 500/1,
-    'Thailand Alexander Albon': 500/1,
+    'China Guanyu Zhou': 275/1,
 }
 
 not_classifying_driver_to_odds = {
-    'Canada Nicholas Latifi': 5/2,
-    'Japan Yuki Tsunoda': 13/5,
+    'Canada Nicholas Latifi': 9/4,
+    'Canada Lance Stroll': 5/2,
+    'Japan Yuki Tsunoda': 5/2,
     'China Guanyu Zhou': 13/5,
-    'Canada Lance Stroll': 13/5,
-    'Thailand Alexander Albon': 16/5,
-    'Spain Fernando Alonso': 16/5,
+    'Germany Sebastian Vettel': 3/1,
+    'Denmark Kevin Magnussen': 3/1,
+    'France Esteban Ocon': 3/1,
     'Germany Mick Schumacher': 16/5,
-    'Germany Sebastian Vettel': 16/5,
-    'France Esteban Ocon': 16/5,
-    'Spain Carlos Sainz Jr.': 7/2,
-    'Australia Daniel Ricciardo': 7/2,
-    'Denmark Kevin Magnussen': 7/2,
+    'Australia Daniel Ricciardo': 16/5,
+    'Spain Fernando Alonso': 16/5,
+    'United Kingdom Lando Norris': 7/2,
+    'Finland Valtteri Bottas': 7/2,
     'France Pierre Gasly': 7/2,
-    'United Kingdom Lewis Hamilton': 4/1,
-    'United Kingdom Lando Norris': 4/1,
+    'Thailand Alexander Albon': 7/2,
+    'Netherlands Max Verstappen': 4/1,
     'United Kingdom George Russell': 4/1,
-    'Netherlands Max Verstappen': 9/2,
+    'Spain Carlos Sainz Jr.': 4/1,
+    'United Kingdom Lewis Hamilton': 4/1,
+    'Monaco Charles Leclerc': 9/2,
     'Mexico Sergio Pérez': 9/2,
-    'Finland Valtteri Bottas': 9/2,
-    'Monaco Charles Leclerc': 5/1,
 }
 
 
@@ -369,7 +365,6 @@ class Team:
         self.turbo_driver = turbo_driver
         self.mega_driver = mega_driver
 
-
     def __eq__(self, other):
         return self.constructor == other.constructor and self.driver_selection == other.driver_selection \
                and self.mega_driver == other.mega_driver and self.turbo_driver == other.turbo_driver
@@ -390,10 +385,10 @@ class Team:
         return f'{driver_to_shorthand[driver]}{suffix}'
 
 
-budget = 101.1
+budget = 101.8
 use_wildcard = True
 team_to_score_sum = {}
-use_megadriver = False
+use_mega_driver = False
 
 
 def score_all_possible_teams(qualifying_order, fastest_lap, race_order):
@@ -435,7 +430,7 @@ def score_all_possible_teams(qualifying_order, fastest_lap, race_order):
             top_driver_score_pairs = sorted(team_driver_to_score.items(), key=lambda kv: kv[1], reverse=True)[:3]
             top_turbo_driver = None
             top_mega_driver = None
-            if use_megadriver:
+            if use_mega_driver:
                 top_turbo_mega_score = float('-inf')
                 for turbo_driver, turbo_driver_score in top_driver_score_pairs:
                     if driver_prices[turbo_driver] >= 20:
